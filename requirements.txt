@@ -1,0 +1,14 @@
+streamlit
+pypdf
+markdown
+beautifulsoup4
+readability-lxml
+html2text
+requests
+faiss-cpu
+sentence-transformers
+numpy
+scikit-learn
+openai>=1.30.0
+python-dotenv
+tiktoken
